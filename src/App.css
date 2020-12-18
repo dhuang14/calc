@@ -1,0 +1,33 @@
+.result {
+  height: 60px;
+  width: 100%;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+.calculator {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button > button{
+  color: white;
+  background-color: #151515;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+}
+
+.chance{
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+}
